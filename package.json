@@ -1,0 +1,14 @@
+{
+  "name": "verdegest-angola",
+  "version": "2.0.0",
+  "description": "Sistema Integrado de Gestão e Vendas para Jardinagem — Angola 2026",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve . -p 3000",
+    "start": "npx serve . -p 3000"
+  },
+  "keywords": ["jardinagem", "angola", "saas", "gestao", "kwanza"],
+  "author": "Yannik Alberto Constantino Mateus <consultor.yacm@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://admyacm-hub.github.io/ao"
+}
